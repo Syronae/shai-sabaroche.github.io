@@ -1,9 +1,3 @@
-
----
-
-### **indaplants.md**
-
-```markdown
 ---
 layout: page
 title: "IndaPlants Experiment – Autonomous Holonomic Plant‑Care Robots"
