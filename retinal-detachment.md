@@ -28,5 +28,5 @@ My dissertation presents the **first physics‑complete, time‑domain model** t
 Insert the exported images from your dissertation in `assets/images/` and reference them here:
 
 ```markdown
-![Energy release rate vs. time for selected detachments](/assets/images/energy_release_rate.png)
-![Maximum energy release rate locus](/assets/images/max_energy_release_locus.png)
+![Energy release rate vs. time for selected detachments](/assets/images/D422.tif)
+![Maximum energy release rate locus](/assets/images/D423.tif)
