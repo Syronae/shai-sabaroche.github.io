@@ -1,26 +1,29 @@
 ---
 layout: home
-title: "Shai S. Sabaroche - Mechanical Engineer Portfolio"
+title: "Shai S. Sabaroche – Mechanical Engineer & Researcher"
 ---
 
 ## About Me
-I am a **Mechanical Engineer** with a PhD in Mechanical Engineering from **Rutgers University**. My research spans solid mechanics, vibrations, acoustics, fracture mechanics, and autonomous systems, with a focus on **finite element analysis (FEA)**, **material characterization**, and **robotics**. With a strong foundation in analytical modeling, I have worked on various cutting-edge projects involving **ophthalmic biomechanics** and **robotic systems**.
+I am a **Mechanical Engineer** and PhD candidate at **Rutgers University** whose work bridges analytical mechanics, numerical simulation, and hands‑on prototyping.  
+My doctoral dissertation develops a first‑principles, mechanics‑based model of **retinal detachment precipitated by blunt‑force ocular trauma**, unifying thin‑shell theory, viscoelastic continua, and spectral methods to predict when and how vision‑threatening delamination propagates.  
+Beyond biomechanics, I design robotic and mechatronic systems—including a fleet of holonomic plant‑care robots—and teach undergraduate laboratories in vibrations and solid mechanics.
 
-### My Areas of Expertise:
-- **Finite Element Analysis (FEA)**
-- **Fracture Mechanics & Material Characterization**
-- **Solid Mechanics & Vibrations**
-- **Autonomous Systems Design**
-- **Robotics (Pathfinding & Control Systems)**
-- **Data Modeling & Algorithm Development**
-- **Programming (MATLAB, Python, C++)**
-- **CAD Modeling (SolidWorks, Ansys, AutoCAD)**
+## Core Technical Competencies
+- Finite‑Element Analysis (**ANSYS**, **Abaqus**), spectral & modal methods  
+- Fracture & fatigue mechanics, energy‑release‑rate criteria  
+- CAD & digital fabrication (**SolidWorks**, **AutoCAD**, rapid‑prototyping)  
+- Robotics & controls (C++, Arduino, PID & A* path‑finding)  
+- Scientific computing (**MATLAB**, **Python**, Mathematica, Maple)
 
-I am passionate about applying engineering principles to solve real-world challenges and advancing technology in fields such as aerospace and biomechanics.
+## Featured Projects
+1. **Mechanics of Retinal Detachment** – PhD research modelling traumatic and tractional detachments and mapping stability envelopes. → [Read more](/retinal-detachment/)
+2. **IndaPlants Experiment** – a networked trio of holonomic robots that cooperatively irrigate and reposition houseplants to maximise growth. → [Read more](/indaplants/)
+3. **Rotation‑Induced Beam‑Plate Detachment** – variational study of delamination in rotating laminates. → [Read more](/rotation-beam-detachment/)
 
-## Contact Me
-- **Email**: [shaisabaroche@gmail.com](mailto:shaisabaroche@gmail.com)
-- **LinkedIn**: [Shai Sabaroche LinkedIn](https://www.linkedin.com/in/shai-sabaroche-3357895b/)
+For the full catalogue see the [Projects](/projects/) page.
 
-Feel free to reach out for collaborations, research inquiries, or professional opportunities.
+## Contact
+- **Email** – [shaisabaroche@gmail.com](mailto:shaisabaroche@gmail.com)  
+- **LinkedIn** – <https://www.linkedin.com/in/shai-sabaroche-3357895b/>
 
+---
