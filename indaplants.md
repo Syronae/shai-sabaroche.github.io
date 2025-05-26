@@ -10,10 +10,6 @@ title: "IndaPlants Experiment – Autonomous Holonomic Plant‑Care Robots"
 permalink: /indaplants/
 ---
 
-> **Capstone Mechatronics Project – 2023**  
-> Co‑authors: S. Sabaroche, A. Malik, Y. Fernandez  
-> 24‑page Design Report & Test Log available on request.
-
 ## Project Goal
 Demonstrate that a **cooperative swarm** of low‑cost holonomic robots can monitor and service houseplants better than a single caretaker by mapping, sharing, and scheduling visits to **light, water, and humidity** resources in real time.
 
