@@ -2,7 +2,7 @@
 
 This repository hosts my professional portfolio site built with **GitHub Pages** and **Jekyll**. It showcases my doctoral research and projects in biomechanics, autonomous‑robot projects, and analytic fracture‑mechanics studies.
 
-▶ **Live site:** <https://syronae.github.io/shai-sabaroche.github.io/>
+▶ **Live site:** <https://shaisabaroche.github.io/shai-sabaroche.github.io/>
 
 ---
 
