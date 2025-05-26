@@ -32,7 +32,6 @@ A swarm of holonomic robots that map, share, and service light, water, and humid
 
 **Achievements**
 * Swarm trials reported **35 %** longer soil‑moisture retention and a **12 %** bump in leaf‑area index versus single‑robot control (design‑report Section 4.2).
-* “Best Autonomous System” – Rutgers Mechanical Engineering Expo 2023.
 * Full 8 × 12 ft arena mapped in **88 s** (3‑robot swarm) versus 190 s single‑robot baseline (design‑report Table 5‑1).
 
 **Technologies**  
