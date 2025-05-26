@@ -46,14 +46,5 @@ This research focused on the **rotation-induced detachment** of an eccentrically
 
 ---
 
-## 4. **Autonomous Robot Design for Agricultural Applications**
-I worked on designing autonomous robots capable of navigating and interacting with agricultural environments. The goal was to optimize resources and reduce human intervention in farming tasks.
 
-### Key Features:
-- **Pathfinding Algorithms**: Developed algorithms for the robots to navigate through agricultural fields autonomously.
-- **Robot Coordination**: Ensured that multiple robots could work together in a cooperative system to optimize tasks such as planting and harvesting.
-- **Technologies Used**: MATLAB, C++, Arduino, sensor integration, and robotics.
-
-### Achievements:
-- Successfully developed robots that can operate autonomously in agricultural environments, contributing to **precision farming** and reducing labor costs.
 
