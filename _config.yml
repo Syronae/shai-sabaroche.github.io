@@ -1,5 +1,12 @@
+title: "Shai S. Sabaroche - Mechanical Engineer"
+description: "Portfolio showcasing research in biomechanical modeling, robotics, fracture mechanics, and autonomous systems."
 theme: jekyll-theme-minimal
-title: "Shai S. Sabaroche"
-description: "Mechanical Engineer Portfolio"
 url: "https://shai-sabaroche.github.io"
 markdown: kramdown
+baseurl: ""
+paginate: 5
+author: "Shai S. Sabaroche"
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
