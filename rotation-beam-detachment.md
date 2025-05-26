@@ -10,8 +10,6 @@ title: "Rotation‑Induced Beam‑Plate Detachment under Rotational Excitation"
 permalink: /rotation-beam-detachment/
 ---
 
-> **Journal Manuscript – Submitted 2025**
-
 ## Overview
 An eccentrically cantilevered elastic beam‑plate bonded to a Winkler foundation inside a rotating housing is analysed to determine when rotational inertia causes peeling.  
 A propagating‑boundary variational problem yields the energy‑release rate G.
