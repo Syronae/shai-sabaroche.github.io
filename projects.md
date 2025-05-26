@@ -31,8 +31,8 @@ A swarm of holonomic robots that map, share, and service light, water, and humid
 * Grid‑based A* path‑planning and **API‑mode ZigBee mesh** for resource exchange.
 
 **Achievements**
-* Swarm trials reported **35 %** longer soil‑moisture retention and a **12 %** bump in leaf‑area index versus single‑robot control (design‑report Section 4.2).
-* Full 8 × 12 ft arena mapped in **88 s** (3‑robot swarm) versus 190 s single‑robot baseline (design‑report Table 5‑1).
+* Swarm trials reported **35 %** longer soil‑moisture retention and a **12 %** bump in leaf‑area index versus single‑robot control.
+* Full 8 × 12 ft arena mapped in **88 s** (3‑robot swarm) versus 190 s single‑robot baseline.
 
 **Technologies**  
 C++ on Arduino Mega 2560, XBee S2 radio modules, custom motor‑driver PCB, PyQt5 dashboard.
@@ -43,7 +43,7 @@ C++ on Arduino Mega 2560, XBee S2 radio modules, custom motor‑driver PCB
 Variational and modal‑analysis investigation of an eccentrically cantilevered beam‑plate peeling from a Winkler foundation inside a rotating housing.
 
 **Key Features**
-* Transversality condition links foundation stiffness, angular acceleration, and adhesion energy (JMMS manuscript Eq. 2.24).
+* Transversality condition links foundation stiffness, angular acceleration, and adhesion energy.
 * Closed‑form natural‑frequency set nearly invariant with detached length.
 * Comparative analysis of impulse, harmonic, and saccadic spin profiles.
 
