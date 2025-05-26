@@ -1,9 +1,3 @@
-
----
-
-### **rotation-beam-detachment.md**
-
-```markdown
 ---
 layout: page
 title: "Rotation‑Induced Beam‑Plate Detachment under Rotational Excitation"
