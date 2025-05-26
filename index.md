@@ -16,14 +16,14 @@ Beyond biomechanics, I design robotic and mechatronic systems—including a flee
 - Scientific computing (**MATLAB**, **Python**, Mathematica, Maple)
 
 ## Featured Projects
-1. **Mechanics of Retinal Detachment** – PhD research modelling traumatic and tractional detachments and mapping stability envelopes. → [Read more](/retinal-detachment/)
-2. **IndaPlants Experiment** – a networked trio of holonomic robots that cooperatively irrigate and reposition houseplants to maximise growth. → [Read more](/indaplants/)
-3. **Rotation‑Induced Beam‑Plate Detachment** – variational study of delamination in rotating laminates. → [Read more](/rotation-beam-detachment/)
+1. **Mechanics of Retinal Detachment** – PhD research modelling traumatic and tractional detachments and mapping stability envelopes. → [Read more]({{ site.baseurl }}/retinal-detachment/)
+2. **IndaPlants Experiment** – a networked trio of holonomic robots that cooperatively irrigate and reposition houseplants to maximise growth. → [Read more]({{ site.baseurl }}/indaplants/)
+3. **Rotation‑Induced Beam‑Plate Detachment** – variational study of delamination in rotating laminates. → [Read more]({{ site.baseurl }}/rotation-beam-detachment/)
 
-For the full catalogue see the [Projects](/projects/) page.
+For a full catalogue see the [Projects]({{ site.baseurl }}/projects/) page.
 
 ## Contact
-- **Email** – [shaisabaroche@gmail.com](mailto:shaisabaroche@gmail.com)  
+- **Email** – shaisabaroche@gmail.com  
 - **LinkedIn** – <https://www.linkedin.com/in/shai-sabaroche-3357895b/>
 
 ---
