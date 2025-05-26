@@ -4,7 +4,7 @@ title: "Shai S. Sabaroche – Mechanical Engineer & Researcher"
 ---
 
 ## About Me
-I am a **Mechanical Engineer** and PhD candidate at **Rutgers University** whose work bridges analytical mechanics, numerical simulation, and hands‑on prototyping.  
+I am a **Mechanical Engineer** with a Ph.D from **Rutgers University** whose work bridges analytical mechanics, numerical simulation, and hands‑on prototyping.  
 My doctoral dissertation develops a first‑principles, mechanics‑based model of **retinal detachment precipitated by blunt‑force ocular trauma**, unifying thin‑shell theory, viscoelastic continua, and spectral methods to predict when and how vision‑threatening delamination propagates.  
 Beyond biomechanics, I design robotic and mechatronic systems—including a fleet of holonomic plant‑care robots—and teach undergraduate laboratories in vibrations and solid mechanics.
 
